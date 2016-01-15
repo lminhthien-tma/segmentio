@@ -7,6 +7,7 @@ require 'segmentio/analytics/request'
 require 'segmentio/analytics/response'
 require 'segmentio/analytics/logging'
 
+#adding new line 1
 module Segmentio
   class Analytics
     def initialize options = {}
